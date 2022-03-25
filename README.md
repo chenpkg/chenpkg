@@ -21,4 +21,6 @@ Here are some ideas to get you started:
 
 ## Hey 👋
 
+[![](https://img.shields.io/badge/dynamic/json?color=000000&label=GitHub&query=%24.data.totalSubs&suffix=%20followers)](https://github.com/chenpkg).
+
 - 🔭 I live in Chengdu and work as a [Software Engineer 👨‍💻](). 
